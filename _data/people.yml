@@ -1,0 +1,184 @@
+# BEGIN: Faculty leads
+
+- name: Jon Kleinberg
+  photo: jonkleinberg.jpg
+  title: "Professor"
+  info: "Departments of Computer Science and Information Science, Cornell University"
+  website: http://www.cs.cornell.edu/home/kleinber/
+  about: "Jon Kleinberg is the Tisch University Professor in the Departments of Computer Science and Information Science at Cornell University. His research focuses on the interaction of algorithms and networks, the roles they play in large-scale social and information systems, and their broader societal implications. He is a member of the National Academy of Sciences and National Academy of Engineering, and the recipient of MacArthur, Packard, Simons, Sloan, and Vannevar Bush research fellowships."
+
+- name: Karen Levy
+  photo: karenlevy.jpg
+  title: "Assistant Professor"
+  info: "Department of Information Science, Cornell University; Associated Faculty, Cornell Law School"
+  website: http://karen-levy.net
+  about: "Karen Levy is an assistant professor in the Department of Information Science at Cornell University and associate faculty at Cornell Law School. Her research examines the legal, social, and ethical dimensions of data-intensive technologies. Levy holds a Ph.D. in Sociology from Princeton University and a J.D. from Indiana University Maurer School of Law."
+
+  # TODO Twitter
+
+- name: Helen Nissenbaum
+  photo: helennissenbaum.jpg
+  title: "Professor"
+  info: "Department of Information Science, Cornell Tech"
+  website: https://nissenbaum.tech.cornell.edu/
+  about: "Helen Nissenbaum is a professor in the Department of Information Science at Cornell Tech. Her research takes an ethical perspective on policy, law, science, and engineering relating to information technology, computing, digital media and data science. Topics have included privacy, trust, accountability, security, and values in technology design. She is the recipient of the 2014 Barwise Prize of the American Philosophical Association."
+  
+  # TODO Twitter
+
+# BEGIN: Faculty members
+
+- name: Solon Barocas
+  photo: solonbarocas.jpg
+  title: "Adjunct Assistant Professor, Principal Researcher"
+  info: "Department of Information Science, Cornell University; Microsoft Research"
+  website: http://solon.barocas.org/
+  about: "Solon Barocas is a Principal Researcher in the New York City lab of Microsoft Research and an Adjunct Assistant Professor in the Department of Information Science at Cornell University. He is also a Faculty Associate at the Berkman Klein Center for Internet & Society at Harvard University."
+
+- name: Hoda Heidari
+  photo: hodaheidari.jpg
+  title: "Assistant Professor"
+  info: "Machine Learning Department, Carnegie Mellon University"
+  website: https://www.cs.cmu.edu/~hheidari/
+  about: "Hoda Heidari is currently an Assistant Professor in Machine Learning and Societal Computing at the School of Computer Science, Carnegie Mellon University. Before joining Carnegie Mellon, she was a postdoctoral associate at AIPP. Her research is broadly concerned with the societal and economic aspects of AI. In particular, her recent work has sought to define and mitigate issues of unfairness and inexplicability through ML, utilizing tools and ideas from CS, economics, and political philosophy. Her work in collaboration with AIPP has won a best-paper award at the ACM FAccT Conference and an exemplary track award at the ACM Conference on Economics and Computation (EC). She has organized several academic events on topics related to responsible and trustworthy AI, including a tutorial at the Web Conference (WWW), and several workshops at NeurIPS and ICLR."
+
+- name: Stephen Hilgartner
+  photo: stephenhilgartner.jpg
+  title: "Professor"
+  info: "Department of Science & Technology Studies, Cornell University"
+  website: https://sts.cornell.edu/stephen-hilgartner
+  about: "Stephen Hilgartner is Professor of Science & Technology Studies at Cornell University. His research examines the social dimensions and politics of contemporary and emerging science and technology, a theme he has addressed in studies of scientific advice, risk disputes, and control over knowledge and information. Recent books include: Reordering Life: Knowledge and Control in the Genomics Revolution and Science & Democracy: Making Knowledge and Making Power in the Biosciences and Beyond. Relevant work includes research on knowledge-control regimes and a current study examining how those building machine learning systems conceptualize ethical and policy issues."
+  
+  # TODO Twitter  
+
+- name: Emma Pierson
+  photo: emmapierson.jpeg
+  title: "Assistant Professor"
+  info: "Department of Computer Science, Cornell Tech"
+  website: https://cs.stanford.edu/~emmap1/
+  about: "Emma Pierson is an assistant professor of computer science at the Jacobs Technion-Cornell Institute at Cornell Tech and the Technion, and a computer science field member at Cornell University. She develops data science and machine learning methods to study inequality and healthcare. Her work has been recognized by a Rhodes Scholarship, Hertz Fellowship, Rising Star in EECS, MIT Technology Review 35 Innovators Under 35, and Forbes 30 Under 30 in Science. She has written for The New York Times, FiveThirtyEight, The Atlantic, The Washington Post, Wired, and various other publications."
+  
+  # TODO Twitter  
+  
+- name: Baobao Zhang
+  photo: baobaozhang.jpg
+  title: "Assistant Professor"
+  info: "Maxwell School of Citizenship and Public Affairs, Syracuse University"
+  website: https://baobaofzhang.github.io/
+  about: "Baobao is currently the Klarman Postdoctoral Fellow in the Cornell Society of Fellows. At Cornell, she is based in the Department of Government; she has a secondary affiliation with the Department of Information Science. In Fall 2021, she will start as an assistant professor of Political Science at the Maxwell School of Citizenship and Public Affairs at Syracuse University. She is also a research affiliate with the Centre for the Governance of AI at the University of Oxford and a CIFAR Azrieli Global Scholar. Her current research focuses on trust in digital technology and the governance of artificial intelligence (AI)."
+
+  # TODO Twitter
+
+- name: Malte Ziewitz
+  photo: malteziewitz.jpg
+  title: "Assistant Professor"
+  info: "Department of Science & Technology Studies, Cornell University"
+  website: https://zwtz.org/
+  about: "Malte Ziewitz is Assistant Professor at the Department of Science & Technology Studies at Cornell University. An ethnographer and sociologist, he studies the changing role of governance and regulation in, of, and through digitally networked environments. His recent work looks at the use of patient feedback in the British hospitals, the search engine optimization industry, and people's attempts to repair a broken credit score. At Cornell, he directs the Digital Due Process Clinic, a clinical research program that helps ordinary people to cope with, understand, and challenge automated scoring systems."
+
+  # TODO Twitter
+
+# BEGIN: Post-docs / visiting scientists
+
+- name: Manish Raghavan
+  photo: manishraghavan.png
+  title: "Postdoctoral Fellow"
+  info: "Center for Research on Computation and Society, Harvard University"
+  website: http://www.cs.cornell.edu/~manish/
+  about: "Manish is a recent Cornell PhD graduate studying the societal implications of algorithmic decision-making. His research draws upon connections to economics, law, and policy to better understand the impacts that computation has on society."
+
+  # TODO Twitter
+
+# BEGIN: Grad students
+
+- name: Madiha Zahrah Choksi
+  photo: madihachoksi.jpg
+  title: "PhD Student"
+  info: "Department of Information Science, Cornell Tech"
+  website: www.madihaz.com
+  about: "Madiha's research focuses on the intersection of technology, law, and privacy. More specifically, the sociological implications of mass-surveillance on user privacy, trust, and agency, and the interconnected relationship between privacy and human rights. Madiha completed a Master of Information from the University of Toronto and a Master of Arts from Columbia University."
+  # TODO twitter
+
+- name: A. Feder Cooper
+  photo: afcooper.png
+  title: "PhD Student"
+  info: "Department of Computer Science, Cornell University"
+  website: https://cacioepe.pe
+  about: "Cooper is a Ph.D. student in Computer Science, researching how to build accountable, robust distributed machine learning systems with theoretical guarantees. Cooper also investigates the legal and social dimensions of this work."
+
+  # TODO Twitter
+
+- name: Fernando Delgado
+  photo: fernandodelgado.jpg
+  title: "PhD Student"
+  info: "Department of Information Science, Cornell University"
+  about: "Fernando A. Delgado is a Ph.D. student in the College of Computing and Information Science at Cornell University. Prior to commencing his doctoral studies, Fernando worked at H5, a pioneering firm in the field of legal technology, designing and deploying algorithmic systems for content classification and evidentiary fact-finding in civil litigation and investigations. His current academic research focuses on the design, evaluation, and governance of AI systems in the law. His doctoral research is supported by the McNair Scholars Program , the MacArthur Foundation program on Technology in the Public Interest, and the Russell Sage Foundation initiative on Computational Social Science."
+
+  # TODO Twitter
+
+- name: Kate Donahue
+  photo: katedonahue.jpg
+  title: "PhD Student"
+  info: "Department of Computer Science, Cornell University"
+  website: www.katedonahue.me
+  about: "Kate Donahue is a 4th year CS PhD candidate. She generally works in theory, especially questions around fairness in machine learning, and strategic behavior under uncertainty, and is extremely fortunate to be advised by Jon Kleinberg."
+
+- name: Margot Hanley
+  photo: margothanley.jpg
+  title: "PhD Student"
+  info: "Department of Information Science, Cornell Tech"
+  website: https://margothanley.info/
+  about: "Margot studies ethical and social dimensions of artificial intelligence. She works at the intersection of values in computing and risks to autonomy and agency in datafied systems. She is in the third year of the program and is advised by Helen Nissenbaum. She holds a MS in Sociology from Columbia University and a BA in Economics from Oberlin College."
+  # TODO Twitter
+
+- name: Kowe Kadoma
+  photo: kowekadoma.jpg
+  title: "PhD Student"
+  info: "Department of Information Science, Cornell University"
+  about: "Kowe is an Information Science Ph.D. student interested in the intersection of technology, law, and social science. She is particularly passionate about the spread of misinformation in historically marginalized communities and the social implications of bias in machine learning."
+  
+- name: Benjamin Laufer
+  photo: benjaminlaufer.jpg
+  title: "PhD Student"
+  info: "Department of Information Science, Cornell Tech"
+  about: "Ben is a PhD student in the Department of Information Science at Cornell University. He is interested in leveraging computational methods to evaluate decision-making processes in the public realm. Prior to joining Cornell, Ben worked as a data scientist at Lime, where he applied machine learning to urban mobility decisions. He graduated from Princeton Unviersity, where he studied Operations Research and Financial Engineering."
+
+- name: Michela Meister
+  photo: michelameister.jpg
+  title: "PhD Student"
+  info: "Department of Computer Science, Cornell University"
+  website: https://michela-meister.github.io/
+  about: "Michela Meister is a PhD student in the Department of Computer Science at Cornell University, advised by Jon Kleinberg. Her main interests are in algorithms, network science, and machine learning. Her work is supported by an NDSEG fellowship."
+
+  # TODO Twitter
+
+- name: Pegah Moradi
+  photo: pegahmoradi.jpg
+  title: "PhD Student"
+  info: "Department of Information Science, Cornell University"
+  about: "Pegah is a PhD student in the Department of Information Science at Cornell University. Her research interests lie in technology and labor, with a focus on how AI-driven automation affects workers. Her work is supported by an NSF GRFP award."
+  
+  # TODO Twitter
+
+- name: Aspen Russell
+  photo: aspenrussell.png
+  title: "PhD Student"
+  info: "Department of Information Science, Cornell University"
+  about: "Aspen studies the history and impact of bias in online spaces. Her work on understanding user intention, and its impact, are used to inform tech innovation and policy aimed at the mitigation of bias. Aspen’s research is founded on an intersectional framework primarily using surveys, interviews, and content analysis. Her goal is to bring issues of inequity to the forefront for tangible change online, while also engaging allies to be active change makers in their communities."
+
+  # TODO Twitter
+
+- name: Katherine Van Koevering
+  photo: kvk.jpg
+  title: "PhD Candidate"
+  info: "Department of Computer Science, Cornell University"
+  website: https://www.cs.cornell.edu/~kvank/
+  about: "Katherine is a fourth year PhD candidate in computer science at Cornell University where she works with Jon Kleinberg and Austin Benson. Her interests span across the spectrum of graph and network science from theoretical to applied with particular interest around random graphs and online communities. She graduated from the University of Washington with bachelor degrees in Computer Science and Statistics in 2018."
+
+- name: Briana Vecchione
+  photo: brianavecchione.jpg
+  title: "PhD Student"
+  info: "Department of Information Science, Cornell University"
+  website: brianavecchione.org
+  about: "Briana is a PhD student in Information Science at Cornell University, advised by Solon Barocas and Karen Levy. Her research addresses issues of measurement and evaluation in sociotechnical systems, with particular attention to systemic issues of algorithmic bias and equity in public policy and human-centered domains. Prior to Cornell, Briana worked in civic technology at Microsoft. Briana's undergraduate background is in computer science and mathematics. Her work is supported by a Facebook Fellowship and Google Women Techmakers scholarship."
+
+  # TODO Twitter

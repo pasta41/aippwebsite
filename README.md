@@ -1,22 +1,16 @@
-# Relax ML Lab website
+# AIPP website
 
-This is the website of our research group, led by Chris De Sa, at Cornell University.
+This is the website of the Artificial Intelligence Policy and Practice iniative at Cornell Unversity.
 
 ## Updating the home page
-To update the text or carousel images, directly change `home.md`. Refer to that file for more details.
-
+# TODO -- once we have anything on the home page
 ---
 Most other relevant text changes get rendered through the yml files in the `_data` directory. The yml files each get rendered in order (from top to bottom), so pay attention to that when moving entries around. You can put html styling directly into the yml field values.
 
 ## Updating your team member profile
-- The current list of team members is alphabetized by last name. Please adhere to this ordering for now. We can always change it.
-- Update the entry associated with your name in `_data/team_members.yml`
+- The current list of team members is alphabetized by last name in each group (faculty, affiliated faculty, post-docs, doctoral students, and then undergrads). Please adhere to this ordering for now. We can always change it.
+- Update the entry associated with your name in `_data/people.yml`
 - If you wish to update your photo, make sure to add the new image to the `images/teampic/` directory and make sure the file name for the `photo` yml field aligns with the new file. 
-
-## Adding news
-- Add an entry to the **bottom** of `_data/news.yml`.
-- Provide the `date` in a format consistent with the other entries in the yml file.
-- Provide the news update in the `headline` field. You can put html directly into this field to include styling, links, images, etc...	
 
 ## Adding a publication
 - For a new publication, add an entry to the **top** of `_data/publist.yml`

@@ -1,54 +1,17 @@
 ---
-title: "Relax ML Lab - Home"
+title: "AIPP - Home"
 layout: homelay
-excerpt: "Relax ML Lab at Cornell University"
+excerpt: "AIPP at Cornell University"
 sitemap: false
 permalink: /
 ---
 
-This the website for the Relax ML Lab @ Cornell University's College of Computing and Information Science (CIS). More info coming soon!
-
-<a href='https://ruqizhang.github.io'>Ruqi Zhang</a>, a lab member and doctoral candidate in Statistics, is on the job market!
-
-
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
-    <!-- Menu -->
-    <ol class="carousel-indicators">
-        <li data-target="#carousel" data-slide-to="0" class="active"></li>
-        <li data-target="#carousel" data-slide-to="1"></li>
-        <li data-target="#carousel" data-slide-to="2"></li>
-        <li data-target="#carousel" data-slide-to="3"></li>
-    </ol>
-
-    <!-- Items -->
-    <div class="carousel-inner" markdown="0">
-
-        <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/gates.jpg" alt="Slide 1" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/tunamh_ocean.jpg" alt="Slide 2" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/moniqua_100mbps.jpg" alt="Slide 3" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/iot.jpg" alt="Slide 4" />
-        </div>
-    </div>
-  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
-    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
-    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
-</div>
-
-More info about our lab coming soon!
-<br>
-<br>
+Artificial Intelligence, Policy, and Practice (AIPP) is an initiative housed within the <a href="https://cis.cornell.edu/">Bowers College of Computing and Information Science</a> at Cornell University. We approach AI as a fundamentally socio-technical phenomenon, one that must be understood with both normative depth and technical precision. We combine technical, sociological, philosophical and legal expertise and methods, in order to more fully understand and more wisely develop the future path and impact of AI. We aim to contribute to — and engage with — researchers, policymakers, and practitioners.
+<br><br>
+On this site, you can learn more about who we are, scholarship that we have completed or are currently working on, and events and ways of becoming involved.
+<br><br>
+Our work is supported by the <a href="https://www.macfound.org/">John D. and Catherine T. MacArthur Foundation</a>.
+<br><br>
 
 <!--
 
