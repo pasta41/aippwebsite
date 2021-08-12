@@ -1,7 +1,7 @@
 ---
-title: "Relax ML Lab - Publications"
+title: "AIPP - Publications"
 layout: gridlay
-excerpt: "Relax ML Lab publications"
+excerpt: "AIPP publications"
 sitemap: false
 permalink: /publications/
 ---
@@ -10,8 +10,6 @@ permalink: /publications/
 # Publications
 
 ## Highlights
-
-(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.ch/citations?user=v7EjGHkAAAAJ))
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
