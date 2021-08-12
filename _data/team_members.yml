@@ -1,0 +1,34 @@
+- name: Jerry Chee
+  photo: jerry.jpg
+  info: PhD Student, Computer Science
+  email: jc3464 [at] cornell [dot] edu
+  website: https://jerry-chee.github.io
+  research: Scalable and resource-efficient ML
+
+- name: A. Feder Cooper
+  photo: afcooper.jpg
+  info: PhD Student, Computer Science
+  email: afc78 [at] cornell [dot] edu
+  website: https://cacioepe.pe/
+  research: Accountable, robust ML systems
+
+- name: Yucheng Lu
+  photo: yucheng.jpg
+  info: PhD Student, Computer Science
+  email: yl2967 [at] cornell [dot] edu
+  website: https://www.cs.cornell.edu/~yucheng/
+  research: Distributed optimization, ML systems
+
+- name: Tao Yu
+  photo: tao.jpg
+  info: PhD Student, Computer Science
+  email: tyu [at] cs [dot] cornell [dot] edu
+  website: http://www.cs.cornell.edu/~tyu/
+  research: Private and secure ML
+
+- name: Ruqi Zhang
+  photo: ruqi.jpg
+  info: PhD Candidate, Statistics
+  email: rz297 [at] cornell [dot] edu
+  website: https://ruqizhang.github.io/
+  research: Scalable Bayesian inference for ML
