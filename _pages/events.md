@@ -12,6 +12,8 @@ permalink: /events/
 Every Time at Location
 </p>
 
+<!--PUT TABLE DIRECTLY IN HERE TO BETTER CONTROL FORMATTING-->
+
 {% for post in site.data.events %}
   {% include event.html %} 
 {% endfor %}

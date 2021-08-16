@@ -34,7 +34,12 @@
   website: http://solon.barocas.org/
   about: "Solon Barocas is a Principal Researcher in the New York City lab of Microsoft Research and an Adjunct Assistant Professor in the Department of Information Science at Cornell University. He is also a Faculty Associate at the Berkman Klein Center for Internet & Society at Harvard University."
 
-  # TODO Twitter  
+- name: Hoda Heidari
+  photo: hodaheidari.jpg
+  title: "Assistant Professor"
+  info: "Machine Learning Department, Carnegie Mellon University"
+  website: https://www.cs.cmu.edu/~hheidari/
+  about: "Hoda Heidari is currently an Assistant Professor in Machine Learning and Societal Computing at the School of Computer Science, Carnegie Mellon University. Before joining Carnegie Mellon University, she was a postdoctoral associate the AI, Policy, and Practice initiative at Cornell University. Her research is broadly concerned with the societal and economic aspects of Artificial Intelligence. In particular, her recent work has sought to define and mitigate issues of unfairness and inexplicability through Machine Learning utilizing tools and ideas from CS, economics, and political philosophy. Her work in collaboration with AIPP has won a best-paper award at the ACM Conference on Fairness, Accountability, and Transparency (FAccT) and an exemplary track award at the ACM Conference on Economics and Computation (EC). She has organized several academic events on topics related to responsible and trustworthy AI, including a tutorial at the Web Conference (WWW), and several workshops at the Neural and Information Processing Systems (NeurIPS) conference and the International Conference on Learning Representations (ICLR)."
 
 - name: Stephen Hilgartner
   photo: stephenhilgartner.jpg
