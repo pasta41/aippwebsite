@@ -6,7 +6,7 @@ sitemap: false
 permalink: /people/
 ---
 
-# People
+# Current Members
 
 {% for member in site.data.people %}
 
@@ -27,10 +27,18 @@ permalink: /people/
 <br><br><br><br>
 </div>
 <hr class="rounded">
-<br><br>
-
-
-<!--Do we want to do an "Alumni" list?-->
 
 {% endfor %}
-<br><br><br><br><br>
+
+# Alumni
+
+{% for member in site.data.alumni %}
+  
+  {% if member.website %}
+  <h4><a href="{{member.website}}">{{member.name}}</a></h4>
+  {% else %}
+  <h4>{{member.name}}</h4>
+  {% endif %}
+{% endfor %}
+
+<br><br>

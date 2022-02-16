@@ -1,0 +1,148 @@
+# 2021 (alphabetized by first author last name)
+######################
+
+- title: "Designing Disaggregated Evaluations of AI Systems: Choices, Considerations, and Tradeoffs"
+  authors: Solon Barocas, Anhong Guo, Ece Kamar, Jacquelyn Krones, Meredith Ringel Morris, Jennifer Wortman Vaughan, Duncan Wadsworth, and Hanna Wallach
+  link:
+    url: https://arxiv.org/abs/2103.06076
+    display:  "Proc. the 2021 AAAI/ACM Conference on AI, Ethics, and Society (AIES 2021)"
+
+- title: "Representativeness in Statistics, Politics, and Machine Learning"
+  image: chasalow2021facct.png
+  authors: Kyla Chasalow and Karen Levy
+  description: "Representativeness is a foundational yet slippery concept. Though familiar at first blush, it lacks a single precise meaning. Instead, meanings range from typical or characteristic, to a proportionate match between sample and population, to a more general sense of accuracy, generalizability, coverage, or inclusiveness. Moreover, the concept has long been contested. In statistics, debates about the merits and methods of selecting a representative sample date back to the late 19th century; in politics, debates about the value of likeness as a logic of political representation are older still. Today, as the concept crops up in the study of fairness and accountability in machine learning, we need to carefully consider the term's meanings in order to communicate clearly and account for their normative implications. In this paper, we ask what representativeness means, how it is mobilized socially, and what values and ideals it communicates or confronts. We trace the concept's history in statistics and discuss normative tensions concerning its relationship to likeness, exclusion, authority, and aspiration. We draw on these analyses to think through how representativeness is used in FAccT debates, with emphasis on data, shift, participation, and power." 
+  link:
+    url: https://arxiv.org/abs/2101.03827
+    display:  "Proc. 2021 ACM Conference on Fairness, Accountability, and Transparency (FAccT 2021)"
+
+- title: "Hyperparameter Optimization Is Deceiving Us, and How to Stop It"
+  authors: A. Feder Cooper, Yucheng Lu, Jessica Zosa Forde, and Chris De Sa
+  image: cooper2021neurips.png
+  description: "Recent empirical work shows that inconsistent results based on choice of hyperparameter optimization (HPO) configuration are a widespread problem in ML research. When comparing two algorithms J and K searching one subspace can yield the conclusion that J outperforms K, whereas searching another can entail the opposite. In short, the way we choose hyperparameters can deceive us. We provide a theoretical complement to this prior work, arguing that, to avoid such deception, the process of drawing conclusions from HPO should be made more rigorous. We call this process epistemic hyperparameter optimization (EHPO), and put forth a logical framework to capture its semantics and how it can lead to inconsistent conclusions about performance. Our framework enables us to prove EHPO methods that are guaranteed to be defended against deception, given bounded compute time budget t. We demonstrate our framework's utility by proving and empirically validating a defended variant of random search."
+  link:
+    url: https://proceedings.neurips.cc/paper/2021/hash/17fafe5f6ce2f1904eb09d2e80a4cbf6-Abstract.html
+    display:  "Advances in Neural Information Processing Systems 34 (NeurIPS 2021)"
+
+- title: "Accuracy-Efficiency Trade-Offs and Accountability in Distributed ML Systems"
+  authors: A. Feder Cooper, Karen Levy, and Chris De Sa
+  award: Oral Presentation
+  link:
+    url: https://arxiv.org/abs/2007.02203
+    display: "Proc. 2021 ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO 2021)"
+
+- title: "Emergent Unfairness in Algorithmic Fairness-Accuracy Trade-Off Research"
+  authors: A. Feder Cooper and Ellen Abrams
+  award: Oral Presentation
+  link:
+    url: https://arxiv.org/abs/2102.01203
+    display:  "Proc. 2021 AAAI/ACM Conference on AI, Ethics, and Society (AIES 2021)"
+
+- title: "Model Selection's Disparate Impact in Real-World Deep Learning Applications"
+  authors: Jessica Zosa Forde\*, A. Feder Cooper\*, Kweku Kwegyir-Aggrey, Christopher De Sa, and Michael Littman 
+  award: Contributed Talk
+  link:
+    url: https://arxiv.org/abs/2104.00606
+    display:  "Workshop on the Science and Engineering of Deep Learning at ICLR 2021 (SEDL@ICLR 2021)"
+
+- title: "A National Program for Building Artificial Intelligence within Communities"
+  authors: Fernando A. Delgado
+  link:
+    url: https://www.dayoneproject.org/post/a-national-program-for-building-artificial-intelligence-within-communities
+    display:  "Federation of American Scientists (2021)"
+
+- title: "Sociotechnical Design in Legal Algorithmic Decision-Making"
+  authors: Fernando A. Delgado
+  description: "Over the past decade, civil litigants in the U.S. have come to increasingly rely on machine learning (ML) systems to classify documents for discovery review and fact-finding, an approach now broadly referred to as Technology-Assisted Review (TAR). The transformation of legal discovery from a painstaking manual process to a sophisticated algorithm-driven methodology took place over a relatively short period of time, many years before controversies arose surrounding the use of automated risk assessment tools on the criminal side of the U.S. justice system. Introduced in 2008 to a handful of litigators in an experimental research setting hosted by the National Institute of Standards and Technology (NIST), TAR was first deployed live on an active litigation in 2012, and by 2015 a vocal and influential vanguard of judges was actively advocating for its use on cases involving large, complex document discovery. My research examines the cross-disciplinary experimentation and collaboration that took place across legal practitioners and computer scientists leading to ML becoming a judicially accepted solution in U.S. civil litigation practice. The aim of this research is to develop a comprehensive case study for how an expert professional field wrestled with the challenges of integrating ML into sensitive decision-making workflows. While deeply attentive to the unique and complex encounter between U.S. civil litigation practice and computer science, my work also aims to inform the practice of algorithmic system design, development, and governance across other high-stakes professional domains."
+  link:
+    url: https://doi.org/10.1145/3406865.3418361
+    display:  "Companion Publication of the ACM 2020 Conference on Computer Supported Cooperative Work and Social Computing (CSCW 2020 Companion)"
+
+- title: "Articulating a Community-Centered Research Agenda for AI Innovation Policy"
+  authors: Fernando A. Delgado and Karen Levy
+  link:
+    url: http://www.cornellpolicyreview.com/a-community-centered-research-agenda-for-ai-innovation-policy/?pdf=5956 
+    display:  "Cornell Policy Review (2021)"
+
+- title: "Stakeholder Participation in AI: Beyond \"Add Diverse Stakeholders and Stir\""
+  authors: Fernando A. Delgado, Stephen Yang, Michael Madaio, and Qian Yang
+  link:
+    url: hhttps://arxiv.org/abs/2111.01122
+    display: "Workshop on Human-Centered AI at Conference on Neural Information Processing Systems (NeurIPS 2021)"
+
+- title: "Better Together?: How Externalities of Size Complicate Notions of Solidarity and Actuarial Fairness"
+  authors: Kate Donahue and Solon Barocas
+  link:
+    url: https://arxiv.org/abs/2103.00347
+    display: "Proc. 2021 ACM Conference on Fairness, Accountability, and Transparency (FAccT 2021)"
+
+- title: "Optimality and Stability in Federated Learning: A Game-theoretic Approach"
+  authors: Kate Donahue and Jon Kleinberg
+  link:
+    url: https://arxiv.org/abs/2106.09580
+    display: "Advances in Neural Information Processing Systems 34 (NeurIPS 2021)"
+
+- title: "Models of fairness in federated learning"
+  authors: Kate Donahue and Jon Kleinberg
+  award: Oral Presentation
+  link:
+    url: https://arxiv.org/abs/2112.00818
+    display:  "NeurIPS Workshop on Learning and Decision-making with Strategic Feedback"
+
+- title: "Model-sharing Games: Analyzing Federated Learning Under Voluntary Participation"
+  authors: Kate Donahue and Jon Kleinberg
+  link:
+    url: https://arxiv.org/abs/2010.00753
+    display:  Proc. 35th AAAI Conference on Artificial Intelligence (AAAI 2021)
+
+- title: "Computer Vision and Conflicting Values: Describing People with Automated Alt Text"
+  authors: Margot Hanley, Solon Barocas, Karen Levy, Shiri Azenkot, and Helen Nissenbaum
+  description: "Scholars have recently drawn attention to a range of controversial issues posed by the use of computer vision for automatically generating descriptions of people in images. Despite these concerns, automated image description has become an important tool to ensure equitable access to information for blind and low vision people. In this paper, we investigate the ethical dilemmas faced by companies that have adopted the use of computer vision for producing alt text: textual descriptions of images for blind and low vision people, We use Facebook's automatic alt text tool as our primary case study. First, we analyze the policies that Facebook has adopted with respect to identity categories, such as race, gender, age, etc., and the company's decisions about whether to present these terms in alt text. We then describe an alternative -- and manual -- approach practiced in the museum community, focusing on how museums determine what to include in alt text descriptions of cultural artifacts. We compare these policies, using notable points of contrast to develop an analytic framework that characterizes the particular apprehensions behind these policy choices. We conclude by considering two strategies that seem to sidestep some of these concerns, finding that there are no easy ways to avoid the normative dilemmas posed by the use of computer vision to automate alt text."
+  link:
+    url: https://arxiv.org/abs/2105.12754
+    display: "Proc. 2021 AAAI/ACM Conference on AI, Ethics, and Society (AIES 2021)"
+
+- title: "Allocating Opportunities in a Dynamic Model of Intergenerational Mobility"
+  award: Best Paper (CS Category)
+  image: heidari2021facct.png
+  authors: Hoda Heidari and Jon Kleinberg
+  description: "Opportunities such as higher education can promote intergenerational mobility, leading individuals to achieve levels of socioeconomic status above that of their parents. We develop a dynamic model for allocating such opportunities in a society that exhibits bottlenecks in mobility; the problem of optimal allocation reflects a trade-off between the benefits conferred by the opportunities in the current generation and the potential to elevate the socioeconomic status of recipients, shaping the composition of future generations in ways that can benefit further from the opportunities. We show how optimal allocations in our model arise as solutions to continuous optimization problems over multiple generations, and we find in general that these optimal solutions can favor recipients of low socioeconomic status over slightly higher-performing individuals of high socioeconomic status --- a form of socioeconomic affirmative action that the society in our model discovers in the pursuit of purely payoff-maximizing goals. We characterize how the structure of the model can lead to either temporary or persistent affirmative action, and we consider extensions of the model with more complex processes modulating the movement between different levels of socioeconomic status."
+  link:
+    url: https://dl.acm.org/doi/10.1145/3442188.3445867
+    display: "Proc. 2021 ACM Conference on Fairness, Accountability, and Transparency (FAccT 2021)"
+
+- title: "On Modeling Human Perceptions of Allocation Policies with Uncertain Outcomes"
+  award: Best Paper Award
+  authors: Hoda Heidari, Solon Barocas, Jon Kleinberg, and Karen Levy
+  link:
+    url: https://arxiv.org/abs/2103.05827 
+    display: "Proc. 2021 ACM Conference on Economics and Computation (EC 2021)"
+
+- title: "Was \"science\" on the ballot?"
+  authors: Stephen Hilgartner, J. Benjamin Hurlbut, and Sheila Jasanoff
+  description: "On 7 November 2020, moments before Kamala Harris and Joe Biden began their victory speeches, giant screens flanking the stage proclaimed, “The people have chosen science.” Yet, nearly 74 million Americans, almost half the voters, had cast their ballots for Donald Trump, thereby presumably not choosing science. Prominent scientists asserted that “science was on the ballot” and lamented that “a significant portion of America doesn't want science” (1). But before despairing at the loss of trust in science, we should be sure we are worrying about the right problem. Was “science” really on the ballot? Is it useful to imagine U.S. citizens as divided into pro-science and anti-science camps? Does the label antiscience serve the purposes of deliberative democracy? The answer to these questions is plainly no. A correct diagnosis is essential to repairing the sorry state of science-society relations in the United States."
+  link:
+    url: https://www.science.org/doi/abs/10.1126/science.abf8762
+    display: "Science, Vol. 371, Issue 6532 (2021)"
+
+- title: "Worlds Apart: Technology, Remote Work, and Equity"
+  authors: Aspen Russell and Eitan Frachtenberg
+  description: "Two major phenomena shaped the US’s news for most of 2020: the Covid pandemic and a new civil rights movement. The former required many employees, especially in tech, to switch to remote work. The latter has refocused attention of both employers and employees on questions of diversity, equity, and inclusion (DEI) in the workplace. In this paper, we examine the intersection of these events and their effects on the tech work landscape. Starting from the assumption that remote work will continue when the pandemic is over, we ask: how will this transition affect different populations from a DEI perspective? We make predictions on technology and the workforce based on current trends and data for six marginalized populations. Keeping in mind that many people share characteristics with these groups, we also attempt to generalize our predictions to the entire tech workforce, and speculate on their beneﬁts, risks, and impact."
+  link:
+    url: https://www.computer.org/csdl/magazine/co/2021/07/09473209/1uUtAaDtEn6   
+    display: "Computer (2021)"
+
+- title: "Random Graphs with Prescribed K-Core Sequences: A New Null Model for Network Analysis"
+  image: vankoevering2021www.png
+  authors: Katherine Van Koevering, Austin R. Benson, and Jon Kleinberg
+  description: "In the analysis of large-scale network data, a fundamental operation is the comparison of observed phenomena to the predictions provided by null models: when we find an interesting structure in a family of real networks, it is important to ask whether this structure is also likely to arise in random networks with similar characteristics to the real ones. A long-standing challenge in network analysis has been the relative scarcity of reasonable null models for networks; arguably the most common such model has been the configuration model, which starts with a graph G and produces a random graph with the same node degrees as G. This leads to a very weak form of null model, since fixing the node degrees does not preserve many of the crucial properties of the network, including the structure of its subgraphs. Guided by this challenge, we propose a new family of network null models that operate on the k-core decomposition. For a graph G, the k-core is its maximal subgraph of minimum degree k; and the core number of a node v in G is the largest k such that v belongs to the k-core of G. We provide the first efficient sampling algorithm to solve the following basic combinatorial problem: given a graph G, produce a random graph sampled nearly uniformly from among all graphs with the same sequence of core numbers as G. This opens the opportunity to compare observed networks G with random graphs that exhibit the same core numbers, a comparison that preserves aspects of the structure of G that are not captured by more local measures like the degree sequence. We illustrate the power of this core-based null model on some fundamental tasks in network analysis, including the enumeration of networks motifs."
+  link:
+    url: https://arxiv.org/abs/2102.12604
+    display: "Proc. Web Conference 2021 (WWW 2021)"
+
+- title: "Algorithmic Auditing and Social Justice: Lessons from the History of Audit Studies"
+  award: Oral Presentation
+  authors: Briana Vecchione, Solon Barocas, and Karen Levy
+  description: "“Algorithmic audits” have been embraced as tools to investigate the functioning and consequences of sociotechnical systems. Though the term is used somewhat loosely in the algorithmic context and encompasses a variety of methods, it maintains a close connection to audit studies in the social sciences—which have, for decades, used experimental methods to measure the prevalence of discrimination across domains like housing and employment. In the social sciences, audit studies originated in a strong tradition of social justice and participatory action, often involving collaboration between researchers and communities; but scholars have argued that, over time, social science audits have become somewhat distanced from these original goals and priorities. We draw from this history in order to highlight difficult tensions that have shaped the development of social science audits, and to assess their implications in the context of algorithmic auditing. In doing so, we put forth considerations to assist in the development of robust and engaged assessments of sociotechnical systems that draw from auditing’s roots in racial equity and social justice."
+  link:
+    url: https://dl.acm.org/doi/10.1145/3465416.3483294
+    display: "Proc. 2021 ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO 2021)"

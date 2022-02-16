@@ -1,0 +1,254 @@
+# 2022 (alphabetized by first author last name)
+##############
+
+# Solon Barocas
+
+- title: "Unfair Artificial Intelligence: How FTC Intervention Can Overcome the Limitations of Discrimination Law"
+  authors: Andrew Selbst and Solon Barocas
+  link:
+    url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4185227
+    display: "University of Pennsylvania Law Review, Vol. 171 (2023)"
+
+- title: "Mimetic Models: Ethical Implications of AI that Acts Like You"
+  authors:  Reid McIlroy-Young, Ashton Anderson, Solon Barocas, Jon Kleinberg, and Siddhartha Sen
+  link:
+    url: https://arxiv.org/abs/2008.10086
+    display: "Proc. 5th AAAI/ACM Conference on Artificial Intelligence, Ethics, and Society  (AIES 2022)"
+
+
+- title: "Disentangling the Components of Ethical Research in Machine Learning"
+  authors: Carolyn Ashurst, Solon Barocas, Rosie Campbell, and Inioluwa Deborah Raji
+  link:
+    url: https://dl.acm.org/doi/abs/10.1145/3531146.3533781
+    display: "Proc. 2022 ACM Conference on Fairness, Accountability, and Transparency (FAccT 2022)"
+
+- title: "Model Multiplicity: Opportunities, Concerns, and Solutions"
+  authors: Emily Black, Manish Raghavan, and Solon Barocas
+  link:
+    url: https://dl.acm.org/doi/10.1145/3531146.3533149
+    display: "Proc. 2022 ACM Conference on Fairness, Accountability, and Transparency (FAccT 2022)"
+
+- title: "Explanations in Whose Interests"
+  authors: Solon Barocas and Manish Raghavan
+  link:
+    url: "https://www.dropbox.com/sh/nvp53xp62k9pia5/AACNpCtm4xdBtLn5_qnF_bE4a/EAAI_-_AAAI22_paper_13.pdf?dl=0"
+    display: "Workshop on Explainable AI in Finance (ICAIF 2021); Workshop on Explainable Agency in Artificial Intelligence (AAAI 2022)"
+
+# A. Feder Cooper
+
+- title: "Accountability in an Algorithmic Society: Relationality, Responsibility, and Robustness in Machine Learning"
+  authors: A. Feder Cooper, Emanuel Moss, Benjamin Laufer, and Helen Nissenbaum
+  link:
+    url: https://arxiv.org/abs/2202.05338
+    display: "Proc. 2022 ACM Conference on Fairness, Accountability, and Transparency (FAccT 2022)"
+
+- title: "Making the Unaccountable Internet: The Changing Meaning of Accounting in the Design of the Early ARPANET"
+  authors: A. Feder Cooper and Gili Vidan
+  link:
+    url: https://arxiv.org/abs/2201.11884
+    display: "Proc. 2022 ACM Conference on Fairness, Accountability, and Transparency (FAccT 2022)"
+
+
+- title: "Fast or Accurate? Governing Conflicting Goals in Highly Autonomous Vehicles"
+  authors: A. Feder Cooper and Karen Levy
+  link:
+    url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4180473 
+    display: "20 Colorado Technology Law Journal 249 (2022)"
+
+- title: "Non-Determinism and the Lawlessness of Machine Learning Code"
+  authors: A. Feder Cooper, Jonathan Frankle, and Christopher De Sa
+  link:
+    url: https://arxiv.org/abs/2206.11834
+    display: "Proc. 2022 ACM Symposium on Computer Science and Law (CSLAW 2022)"
+
+# Sarah Dean
+
+- title: "Choices, Risks, and Reward Reports: Charting Public Policy for Reinforcement Learning Systems"
+  authors: Thomas Krendl Gilbert, Sarah Dean, Tom Zick, and Nathan Lambert
+  link:
+    url: https://arxiv.org/abs/2202.05716
+    display: "CLTC Whitepaper"
+
+- title: "Reward Reports for Reinforcement Learning"
+  authors: Thomas Krendl Gilbert, Sarah Dean, Nathan Lambert, Tom Zick, and Aaron Snoswell
+  link:
+    url: https://arxiv.org/abs/2204.10817
+    display: "Preprint"
+
+- title: "Preference Dynamics Under Personalized Recommendations"
+  authors: Sarah Dean and Jamie Morgenstern
+  link:
+    url: https://arxiv.org/abs/2205.13026
+    display: "EC 2022"
+
+- title: "Multi-learner risk reduction under endogenous participation dynamics"
+  authors: Sarah Dean, Mihaela Curmei, Lillian J. Ratliff, Jamie Morgenstern, and Maryam Fazel
+  link:
+    url: https://arxiv.org/abs/2206.02667
+    display: "Preprint"
+
+- title: "Engineering a Safer Recommender System"
+  authors: Liu Leqi and Sarah Dean
+  link:
+    url: http://tinyurl.com/safe-recommender-systems
+    display: "Responsible Decision Making in Dynamic Environments Workshop at ICML 2022"
+
+- title: "Modeling Content Creator Incentives on Algorithm-Curated Platforms"
+  authors: Jiri Hron, Karl Krauth, Michael I. Jordan, Niki Kilbertus, and Sarah Dean
+  link:
+    url: https://arxiv.org/abs/2206.13102
+    display: "Preprint"
+
+
+# Fernando Delgado
+
+- title: "An Uncommon Task: Participatory Design in Legal AI"
+  authors: Fernando Delgado, Solon Barocas, and Karen Levy
+  link:
+    url: https://doi.org/10.1145/3512898
+    display: "Proc. ACM Hum.-Comput. Interact. 6, CSCW1, Article 51 (April 2022)"
+
+# Kate Donahue
+
+- title: "Human-Algorithm Collaboration: Achieving Complementarity and Avoiding Unfairness"
+  authors: Kate Donahue, Alexandra Chouldechova, and Krishnaram Kenthapadi
+  link:
+    url: https://arxiv.org/abs/2202.08821
+    display: "Proc. 2022 ACM Conference on Fairness, Accountability, and Transparency (FAccT 2022)"
+
+# Nikhil Garg
+
+- title: "Trucks Don’t Mean Trump: Diagnosing Human Error in Image Analysis"
+  authors: J.D. Zamfirescu-Pereira, Jerry Chen, Emily Wen, Allison Koenecke, Nikhil Garg, and Emma Pierson
+  link:
+    url: https://dl.acm.org/doi/fullHtml/10.1145/3531146.3533145 
+    display: "Proc. 2022 ACM Conference on Fairness, Accountability, and Transparency (FAccT 2022)"
+
+- title: "Equity in Resident Crowdsourcing: Measuring Under-reporting without Ground Truth Data"
+  authors: Zhi Liu and Nikhil Garg
+  link:
+    url: https://arxiv.org/abs/2204.08620
+    display: "Proc. 2022 ACM Conference on Economics and Computation (EC 2022)"
+
+# Jon Kleinberg
+
+
+- title: "The Challenge of Understanding What Users Want: Inconsistent Preferences and Engagement Optimization"
+  authors: J. Kleinberg, M. Raghavan, S. Mullainathan
+  link:
+    url: https://arxiv.org/pdf/2202.11776.pdf
+    display: "Proc. 23rd ACM Conference on Economics and Computation (EC 2022)"
+
+- title: "On the Effect of Triadic Closure on Network Segregation"
+  authors: R. Abebe, N. Immorlica, J. Kleinberg, B. Lucier, A. Shirali
+  link:
+    url: https://arxiv.org/abs/2205.13658
+    display: "Proc. 23rd ACM Conference on Economics and Computation (EC 2022)"
+
+- title: "Learning Models of Individual Behavior in Chess"
+  authors: R. McIlroy-Young, R. Wang, S. Sen, J. Kleinberg, A. Anderson
+  link:
+    url: https://arxiv.org/abs/2008.10086
+    display: "Proc. 28th ACM SIGKDD Intl. Conf. on Knowledge Discovery and Data Mining (KDD 2022)"
+
+- title: "Allocating Stimulus Checks in Times of Crisis"
+  authors: M. Papachristou, J. Kleinberg
+  link:
+    url: https://arxiv.org/abs/2106.07560
+    display: "Proc. 31st International World Wide Web Conference (WWW 2022)"
+
+- title: "Opinion Dynamics with Varying Susceptibility to Persuasion via Non-Convex Local Search"
+  authors: R. Abebe, T-H Chan, J. Kleinberg, Z. Liang, D. Parkes, M. Sozio, C. Tsourakakis
+  link:
+    url: https://arxiv.org/abs/2011.02583
+    display: "ACM Transactions on Knowledge Discovery from Data (2022)"
+
+- title: "Dynamic Interventions for Networked Contagions"
+  authors: M. Papachristou, S. Banerjee, J. Kleinberg
+  link:
+    url: https://arxiv.org/abs/2205.13394
+    display: "Poster at EAAMO 2022 Conference (non-archival)"
+
+- title: "Measuring the Completeness of Economic Models"
+  authors: D. Fudenberg, J. Kleinberg, A. Liang, S. Mullainathan
+  link:
+    url: https://www.cs.cornell.edu/home/kleinber/jpe22-completeness.pdf
+    display: "Journal of Political Economy (2022)"
+
+- title: "Ordered Submodularity and its Applications to Diversifying Recommendations"
+  authors: J. Kleinberg, E. Ryu, E. Tardos
+  link:
+    url: https://arxiv.org/pdf/2203.00233.pdf
+    display: "Preprint (2022)"
+
+- title: "Optimal stopping with behaviorally biased agents: The role of loss aversion and changing reference points"
+  authors: J. Kleinberg, R. Kleinberg, S. Oren
+  link:
+    url:  https://arxiv.org/pdf/2106.00604.pdf
+    display: "Games Econ. Behav. 133: 282-299 (2022)"
+
+- title: "Mechanisms for (Mis)allocating Scientific Credit"
+  authors: J. Kleinberg, S. Oren
+  link:
+    url: https://link.springer.com/article/10.1007/s00453-021-00902-y
+    display: "Algorithmica 84(2): 344-378 (2022)"
+
+# Ben Laufer
+
+- title: "Four Years of FAccT: A Reflexive, Mixed-Methods Analysis of Research, Contributions, Shortcomings, and Future Prospects"
+  authors: Benjamin Laufer, Sameer Jain*, A. Feder Cooper*, Jon Kleinberg, and Hoda Heidari
+  link:
+    url: https://arxiv.org/abs/2206.06738
+    display: "Proc. 2022 ACM Conference on Fairness, Accountability, and Transparency (FAccT 2022)"
+
+- title: "Collective Obfuscation and Crowdsourcing"
+  authors: Benjamin Laufer and Niko Grupen
+  link:
+    url: https://arxiv.org/abs/2208.06405
+    display: "2022 KDD MIS2-TrueFact Workshop"
+
+- title: "End-to-end Auditing of Decision Pipelines"
+  authors: Benjamin Laufer, Emma Pierson, and Nikhil Garg
+  link:
+    url: https://responsibledecisionmaking.github.io/assets/pdf/papers/28.pdf
+    display: "ICML workshop on Responsible Decision-Making in Dynamic Environments (RDMDE 2022)"
+
+# Michela Meister
+
+- title: "Optimizing the order of actions in contact tracing"
+  authors: M. Meister and J. Kleinberg
+  link:
+    url: https://arxiv.org/abs/2107.09803
+    display: "Poster at EAAMO 2022 Conference (non-archival)"
+
+- title: "Digital security and reproductive rights: lessons for feminist cyberlaw"
+  authors: Michela Meister and Karen Levy
+
+# Emma Pierson
+
+- title: "Quantifying Inequality in Underreported Medical Conditions"
+  authors: Divya Shanmugam and Emma Pierson
+  link:
+    url: https://arxiv.org/abs/2110.04133  
+    display: "Preprint"
+
+- title: "Patients cannot consent to care unless they know how much it costs"
+  authors: Leah Pierson and Emma Pierson
+  link:
+    url: https://www.bmj.com/content/378/bmj.o1747 
+    display: "British Medical Journal"
+
+
+# Baobao Zhang
+
+- title: "No Rage Against the Machines: Threat of Automation Does Not Change Policy Preferences"
+  authors: Baobao Zhang
+  link:
+    url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3455501
+    display: "Proc. 5th AAAI/ACM Conference on Artificial Intelligence, Ethics, and Society  (AIES 2022)" 
+
+- title: "Ethics and Governance of Artificial Intelligence: Evidence from a Survey of Machine Learning Researchers"
+  authors: Baobao Zhang, Markus Anderljung, Lauren Kahn, Noemi Dreksler, Michael C. Horowitz, and Allan Dafoe
+  link:
+    url: https://www.ijcai.org/proceedings/2022/0811.pdf
+    display: "Proc. 31st International Joint Conference on Artificial Intelligence (IJCAI 2022), Journal Track, Extended Abstract" 
