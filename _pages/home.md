@@ -7,7 +7,7 @@ permalink: /
 ---
 
 <div class="custom-banner">
-  <img class="custom-banner-image" src="{{ site.url }}{{ site.baseurl }}/images/banner2.jpg">
+  <img class="custom-banner-image img-responsive" src="{{ site.url }}{{ site.baseurl }}/images/banner2.jpg">
 </div>
 
 <br>
