@@ -57,6 +57,13 @@
   website: https://cs.stanford.edu/~emmap1/
   about: "Emma Pierson is an assistant professor of computer science at the Jacobs Technion-Cornell Institute at Cornell Tech and the Technion, and a computer science field member at Cornell University. She develops data science and machine learning methods to study inequality and healthcare. Her work has been recognized by a Rhodes Scholarship, Hertz Fellowship, Rising Star in EECS, MIT Technology Review 35 Innovators Under 35, and Forbes 30 Under 30 in Science. She has written for The New York Times, FiveThirtyEight, The Atlantic, The Washington Post, Wired, and various other publications."
   
+
+- name: Gili Vidan
+  photo: gilividan.png
+  title: "Assistant Professor"
+  info: "Department of Information Science, Cornell University"
+  about: "Gili Vidan is an assistant professor in the Department of Information Science at the Cornell Bowers College of Computing and Information Science. She is a historian of information technology and Science and Technology Studies (STS) researcher. Her work examines how trust is established both in digital technologies and through digital mediation and how notions of authenticity, knowability, and good governance are implicated in the making of new digital objects. Her book project, \"Technologies of Trust,\" traces technical attempts to solve the problems of trust and authentication in late 20th- and early 21st-century US."
+
   # TODO Twitter  
   
 - name: Baobao Zhang
