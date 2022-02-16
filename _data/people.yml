@@ -185,7 +185,7 @@
   photo: brianavecchione.jpg
   title: "PhD Student"
   info: "Department of Information Science, Cornell University"
-  website: brianavecchione.org
+  website: https://brianavecchione.org/
   about: "Briana is a PhD student in Information Science at Cornell University, advised by Solon Barocas and Karen Levy. Her research addresses issues of measurement and evaluation in sociotechnical systems, with particular attention to systemic issues of algorithmic bias and equity in public policy and human-centered domains. Prior to Cornell, Briana worked in civic technology at Microsoft. Briana's undergraduate background is in computer science and mathematics. Her work is supported by a Facebook Fellowship and Google Women Techmakers scholarship."
 
   # TODO Twitter
