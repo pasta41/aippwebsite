@@ -24,7 +24,7 @@ permalink: /publications/
 <div class="col-sm-6 clearfix">
  <div class="well">
   <pubtit>{{ publi.title }}</pubtit>
-  <p style="margin-top: 10px; background-color: #F8981D; color: #F7F7F7;text-align: center"><b>{{publi.award}}</b></p>
+  <p style="margin-top: 10px; background-color: #006699; color: #FFFFFF;text-align: center"><b>{{publi.award}}</b></p>
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
@@ -56,7 +56,7 @@ permalink: /publications/
 {% for publi in site.data.publist %}
   <hr class="rounded">
   <b>{{ publi.title }}</b> <br />
-  <p style="color: #F8981D"><b>{{publi.award}}</b></p>
+  <p style="color: #006699"><b>{{publi.award}}</b></p>
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
   <br>
 {% endfor %}
