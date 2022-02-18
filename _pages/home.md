@@ -20,7 +20,7 @@ Our work is supported by the <a href="https://www.macfound.org/">John D. and Cat
 <br><br>
 
 <div class="col-sm-6">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/cis.png" class="img-responsive" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/cis.png" class="img-responsive" style="float: left; margin-bottom:20px" />
 </div>
 
 <br><br><br><br>
