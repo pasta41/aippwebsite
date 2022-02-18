@@ -11,6 +11,8 @@ permalink: /publications/
 
 ## Highlights
 
+<!-- finish code for de-coupling awards from highlighting-->
+
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
 
@@ -24,7 +26,10 @@ permalink: /publications/
 <div class="col-sm-6 clearfix">
  <div class="well">
   <pubtit>{{ publi.title }}</pubtit>
+
+  {% if publi.highlight == 1 %}
   <p style="margin-top: 10px; background-color: #006699; color: #FFFFFF;text-align: center"><b>{{publi.award}}</b></p>
+  {% endif %}
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>

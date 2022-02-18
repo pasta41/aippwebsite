@@ -1,4 +1,4 @@
-- title: "Placeholder title -- highlighted"
+- title: "Placeholder title -- highlighted -- awarded"
   award: Highlight text
   image: tunamh.png
   authors: Placeholder authors
@@ -8,6 +8,14 @@
     display:  Placholder link
   highlight: 1
 
+- title: "Placeholder title -- highlighted -- no award"
+  authors: Placeholder authors
+  description: Placeholder description
+  link:
+    url: google.com
+    display:  Placeholder link
+  highlight: 1
+
 - title: "Placeholder title -- not highlighted"
   authors: Placeholder authors
   description: Placeholder description
@@ -15,3 +23,4 @@
     url: google.com
     display:  Placeholder link
   highlight: 0
+
