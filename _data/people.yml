@@ -86,6 +86,13 @@
 
 # BEGIN: Post-docs / visiting scientists
 
+- name: Lydia Liu
+  photo: lydialiu.jpg
+  title: "Incoming Postdoctoral Associate"
+  info: "Department of Computer Science, Cornell University"
+  website: https://www.lydiatliu.com
+  about: "Lydia T. Liu is currently a PhD candidate in the EECS at University of California, Berkeley, advised by Moritz Hardt and Michael I. Jordan. Lydia's research examines the mathematical foundations of machine learning and algorithmic decision-making, with a focus on societal impact and human welfare. Her current work also approaches questions of algorithmic impact from an integrated and interdisciplinary perspective. She is the recipient of a Best Paper Award at the International Conference on Machine Learning, a Microsoft Ada Lovelace Fellowship, and an Open Philanthropy AI Fellowship."
+
 - name: Manish Raghavan
   photo: manishraghavan.png
   title: "Postdoctoral Fellow"
