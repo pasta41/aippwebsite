@@ -108,7 +108,7 @@
   photo: madihachoksi.jpg
   title: "PhD Student"
   info: "Department of Information Science, Cornell Tech"
-  website: www.madihaz.com
+  website: https://www.madihaz.com
   about: "Madiha's research focuses on the intersection of technology, law, and privacy. More specifically, the sociological implications of mass-surveillance on user privacy, trust, and agency, and the interconnected relationship between privacy and human rights. Madiha completed a Master of Information from the University of Toronto and a Master of Arts from Columbia University."
   # TODO twitter
 
@@ -125,7 +125,7 @@
   photo: fernandodelgado.jpg
   title: "PhD Student"
   info: "Department of Information Science, Cornell University"
-  about: "Fernando A. Delgado is a Ph.D. student in the College of Computing and Information Science at Cornell University. Prior to commencing his doctoral studies, Fernando worked at H5, a pioneering firm in the field of legal technology, designing and deploying algorithmic systems for content classification and evidentiary fact-finding in civil litigation and investigations. His current academic research focuses on the design, evaluation, and governance of AI systems in the law. His doctoral research is supported by the McNair Scholars Program , the MacArthur Foundation program on Technology in the Public Interest, and the Russell Sage Foundation initiative on Computational Social Science."
+  about: "Fernando A. Delgado is a Ph.D. student in the College of Computing and Information Science at Cornell University. Prior to commencing his doctoral studies, Fernando worked at H5, a pioneering firm in the field of legal technology, designing and deploying algorithmic systems for content classification and evidentiary fact-finding in civil litigation and investigations. His current academic research focuses on the design, evaluation, and governance of AI systems in the law. His doctoral research is supported by the McNair Scholars Program, the MacArthur Foundation program on Technology in the Public Interest, and the Russell Sage Foundation initiative on Computational Social Science."
 
   # TODO Twitter
 
@@ -133,7 +133,7 @@
   photo: katedonahue.jpg
   title: "PhD Student"
   info: "Department of Computer Science, Cornell University"
-  website: www.katedonahue.me
+  website: https://www.katedonahue.me
   about: "Kate Donahue is a 4th year CS PhD candidate. She generally works in theory, especially questions around fairness in machine learning, and strategic behavior under uncertainty, and is extremely fortunate to be advised by Jon Kleinberg."
 
 - name: Margot Hanley
@@ -141,7 +141,7 @@
   title: "PhD Student"
   info: "Department of Information Science, Cornell Tech"
   website: https://margothanley.info/
-  about: "Margot studies ethical and social dimensions of artificial intelligence. She works at the intersection of values in computing and risks to autonomy and agency in datafied systems. She is in the third year of the program and is advised by Helen Nissenbaum. She holds a MS in Sociology from Columbia University and a BA in Economics from Oberlin College."
+  about: "Margot Hanley is a Ph.D. student in Information Science at Cornell Tech, as well as a Doctoral Fellow at the Digital Life Initiative and she is advised by Helen Nissenbaum. Her research is motivated by normative questions surrounding the design, development, and use of computational systems, especially those which use machine learning and other data-driven techniques, and how they may threaten or limit human autonomy, agency, and expression.  Margot holds a B.A. from Oberlin College in Economics and an M.A from Columbia University in Sociology."
   # TODO Twitter
 
 - name: Kowe Kadoma

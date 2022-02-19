@@ -37,12 +37,12 @@
     url: https://arxiv.org/abs/2102.01203
     display:  "Proc. 2021 AAAI/ACM Conference on AI, Ethics, and Society (AIES 2021)"
 
-- title: "Model Selection’s Disparate Impact in Real-World Deep Learning Applications"
-  authors: Jessica Zosa Forde*, A. Feder Cooper*, Kweku Kwegyir-Aggrey, Christopher De Sa, and Michael Littman 
+- title: "Model Selection's Disparate Impact in Real-World Deep Learning Applications"
+  authors: Jessica Zosa Forde\*, A. Feder Cooper\*, Kweku Kwegyir-Aggrey, Christopher De Sa, and Michael Littman 
   award: Contributed Talk
   link:
     url: https://arxiv.org/abs/2104.00606
-    display:  "Workshop on the Science and Engineering of Deep Learning at ICLR 2021 (SEDL) (SEDL@ICLR 2021)"
+    display:  "Workshop on the Science and Engineering of Deep Learning at ICLR 2021 (SEDL@ICLR 2021)"
 
 - title: "Making the Unaccountable Internet: The Changing Meaning of Accounting in the Design of the Early ARPANET"
   authors: A. Feder Cooper and Gili Vidan
