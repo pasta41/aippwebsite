@@ -27,10 +27,9 @@ permalink: /people/
 <br><br><br><br>
 </div>
 <hr class="rounded">
-<br><br>
 
 {% endfor %}
-<br><br><br>
+
 # Alumni
 
 {% for member in site.data.alumni %}
@@ -40,7 +39,6 @@ permalink: /people/
   {% else %}
   <h4>{{member.name}}</h4>
   {% endif %}
-  <br>
 {% endfor %}
 
-<br><br><br><br><br>
+<br><br>
