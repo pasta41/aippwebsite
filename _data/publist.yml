@@ -139,6 +139,14 @@
     url: https://arxiv.org/abs/2102.12604
     display: "Proc. Web Conference 2021 (WWW 2021)"
 
+- title: "Algorithmic Auditing and Social Justice: Lessons from the History of Audit Studies"
+  award: Oral Presentation
+  authors: Briana Vecchione, Solon Barocas, and Karen Levy
+  description: "“Algorithmic audits” have been embraced as tools to investigate the functioning and consequences of sociotechnical systems. Though the term is used somewhat loosely in the algorithmic context and encompasses a variety of methods, it maintains a close connection to audit studies in the social sciences—which have, for decades, used experimental methods to measure the prevalence of discrimination across domains like housing and employment. In the social sciences, audit studies originated in a strong tradition of social justice and participatory action, often involving collaboration between researchers and communities; but scholars have argued that, over time, social science audits have become somewhat distanced from these original goals and priorities. We draw from this history in order to highlight difficult tensions that have shaped the development of social science audits, and to assess their implications in the context of algorithmic auditing. In doing so, we put forth considerations to assist in the development of robust and engaged assessments of sociotechnical systems that draw from auditing’s roots in racial equity and social justice."
+  link:
+    url: https://dl.acm.org/doi/10.1145/3465416.3483294
+    display: "Proc. 2021 ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO 2021)"
+
 # 2020
 ##############
 

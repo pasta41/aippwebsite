@@ -1,15 +1,17 @@
 ---
-title: "AIPP - Publications"
+title: "AIPP - Scholarship"
 layout: gridlay
-excerpt: "AIPP publications"
+excerpt: "AIPP scholarship"
 sitemap: false
-permalink: /publications/
+permalink: /scholarship/
 ---
 
 
-# Publications
+# Scholarship
 
-## Highlights
+## Recently Workshopped Pieces
+
+AIPP meets weekly throughout the year to workshop scholarship at various stages of development. We highlight below some of this recent work that has been made publically available.
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.highlights %}
