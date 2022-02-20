@@ -1,15 +1,15 @@
-# BEGIN: Faculty leads
+# BEGIN: Faculty PIs
 
 - name: Jon Kleinberg
   photo: jonkleinberg.jpg
-  title: "Professor"
+  title: "Professor; AIPP Project PI"
   info: "Departments of Computer Science and Information Science, Cornell University"
   website: http://www.cs.cornell.edu/home/kleinber/
   about: "Jon Kleinberg is the Tisch University Professor in the Departments of Computer Science and Information Science at Cornell University. His research focuses on the interaction of algorithms and networks, the roles they play in large-scale social and information systems, and their broader societal implications. He is a member of the National Academy of Sciences and National Academy of Engineering, and the recipient of MacArthur, Packard, Simons, Sloan, and Vannevar Bush research fellowships."
 
 - name: Karen Levy
   photo: karenlevy.jpg
-  title: "Assistant Professor"
+  title: "Assistant Professor; AIPP Project PI"
   info: "Department of Information Science, Cornell University; Associated Faculty, Cornell Law School"
   website: http://karen-levy.net
   about: "Karen Levy is an assistant professor in the Department of Information Science at Cornell University and associate faculty at Cornell Law School. Her research examines the legal, social, and ethical dimensions of data-intensive technologies. Levy holds a Ph.D. in Sociology from Princeton University and a J.D. from Indiana University Maurer School of Law."
@@ -18,7 +18,7 @@
 
 - name: Helen Nissenbaum
   photo: helennissenbaum.jpg
-  title: "Professor"
+  title: "Professor; AIPP Project PI"
   info: "Department of Information Science, Cornell Tech"
   website: https://nissenbaum.tech.cornell.edu/
   about: "Helen Nissenbaum is a professor in the Department of Information Science at Cornell Tech. Her research takes an ethical perspective on policy, law, science, and engineering relating to information technology, computing, digital media and data science. Topics have included privacy, trust, accountability, security, and values in technology design. She is the recipient of the 2014 Barwise Prize of the American Philosophical Association."
@@ -56,7 +56,15 @@
   info: "Department of Computer Science, Cornell Tech"
   website: https://cs.stanford.edu/~emmap1/
   about: "Emma Pierson is an assistant professor of computer science at the Jacobs Technion-Cornell Institute at Cornell Tech and the Technion, and a computer science field member at Cornell University. She develops data science and machine learning methods to study inequality and healthcare. Her work has been recognized by a Rhodes Scholarship, Hertz Fellowship, Rising Star in EECS, MIT Technology Review 35 Innovators Under 35, and Forbes 30 Under 30 in Science. She has written for The New York Times, FiveThirtyEight, The Atlantic, The Washington Post, Wired, and various other publications."
-  
+
+- name: Manish Raghavan
+  photo: manishraghavan.png
+  title: "Postdoctoral Fellow; Incoming Assistant Professor"
+  info: "Harvard University; MIT EECS and the Sloan School of Management"
+  website: http://www.cs.cornell.edu/~manish/
+  about: "Manish is a recent Cornell PhD graduate studying the societal implications of algorithmic decision-making. His research draws upon connections to economics, law, and policy to better understand the impacts that computation has on society."
+
+  # TODO Twitter  
 
 - name: Gili Vidan
   photo: gilividan.png
@@ -92,15 +100,6 @@
   info: "Department of Computer Science, Cornell University"
   website: https://www.lydiatliu.com
   about: "Lydia T. Liu is currently a PhD candidate in the EECS at University of California, Berkeley, advised by Moritz Hardt and Michael I. Jordan. Lydia's research examines the mathematical foundations of machine learning and algorithmic decision-making, with a focus on societal impact and human welfare. Her current work also approaches questions of algorithmic impact from an integrated and interdisciplinary perspective. She is the recipient of a Best Paper Award at the International Conference on Machine Learning, a Microsoft Ada Lovelace Fellowship, and an Open Philanthropy AI Fellowship."
-
-- name: Manish Raghavan
-  photo: manishraghavan.png
-  title: "Postdoctoral Fellow"
-  info: "Center for Research on Computation and Society, Harvard University"
-  website: http://www.cs.cornell.edu/~manish/
-  about: "Manish is a recent Cornell PhD graduate studying the societal implications of algorithmic decision-making. His research draws upon connections to economics, law, and policy to better understand the impacts that computation has on society."
-
-  # TODO Twitter
 
 # BEGIN: Grad students
 
