@@ -103,6 +103,14 @@
 
 # BEGIN: Grad students
 
+- name: Katy Blumer
+  photo: katyblumer.jpg
+  title: "PhD Student"
+  info: "Department of Computer Science, Cornell University"
+  website: https://www.linkedin.com/in/katyblumer/
+  about: "Katy Blumer is a PhD student in the Department of Computer Science at Cornell University, advised by Jon Kleinberg. She is interested generally in machine learning understanding. Before Cornell, Katy worked on machine learning for retinal imaging at Google. She has a bachelor's degree in physics from NYU Abu Dhabi."
+  # TODO twitter
+
 - name: Madiha Zahrah Choksi
   photo: madihachoksi.jpg
   title: "PhD Student"
