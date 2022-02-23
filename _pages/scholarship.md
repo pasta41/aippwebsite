@@ -9,9 +9,9 @@ permalink: /scholarship/
 
 # Scholarship
 
-## Recently Workshopped Pieces
+## Recent Work
 
-AIPP meets weekly throughout the year to workshop scholarship at various stages of development. We highlight below some of this recent work that has been made publically available.
+AIPP meets weekly throughout the year to workshop scholarship at various stages of development. We highlight some of our recent, publically-available work below.
 <br><br>
 
 {% assign number_printed = 0 %}
