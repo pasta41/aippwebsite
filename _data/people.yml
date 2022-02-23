@@ -1,5 +1,13 @@
 # BEGIN: Faculty PIs
 
+- name: Solon Barocas
+  photo: solonbarocas.jpg
+  title: "Adjunct Assistant Professor; Principal Researcher; AIPP Project PI"
+  info: "Department of Information Science, Cornell University; Microsoft Research"
+  website: http://solon.barocas.org/
+  about: "Solon Barocas is a Principal Researcher in the New York City lab of Microsoft Research and an Adjunct Assistant Professor in the Department of Information Science at Cornell University. He is also a Faculty Associate at the Berkman Klein Center for Internet & Society at Harvard University."
+
+
 - name: Jon Kleinberg
   photo: jonkleinberg.jpg
   title: "Professor; AIPP Project PI"
@@ -26,13 +34,6 @@
   # TODO Twitter
 
 # BEGIN: Faculty members
-
-- name: Solon Barocas
-  photo: solonbarocas.jpg
-  title: "Adjunct Assistant Professor, Principal Researcher"
-  info: "Department of Information Science, Cornell University; Microsoft Research"
-  website: http://solon.barocas.org/
-  about: "Solon Barocas is a Principal Researcher in the New York City lab of Microsoft Research and an Adjunct Assistant Professor in the Department of Information Science at Cornell University. He is also a Faculty Associate at the Berkman Klein Center for Internet & Society at Harvard University."
 
 - name: Hoda Heidari
   photo: hodaheidari.jpg
