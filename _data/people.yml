@@ -35,6 +35,13 @@
 
 # BEGIN: Faculty members
 
+- name: Sarah Dean
+  photo: sarahdean.jpg
+  title: "Assistant Professor"
+  info: "Department of Computer Science, Cornell University"
+  website: https://sdean.website/
+  about: "Sarah Dean is an Assistant Professor in the Computer Science Department at Cornell. She is interested in the interplay between optimization, machine learning, and dynamics. Her research focuses on understanding the fundamentals of data-driven control and decision-making, inspired by applications ranging from robotics to recommendation systems. She received a PhD in Electrical Engineering and Computer Science from UC Berkeley in 2021."
+
 - name: Hoda Heidari
   photo: hodaheidari.jpg
   title: "Assistant Professor"
