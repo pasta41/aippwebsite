@@ -125,6 +125,14 @@
   info: "Department of Computer Science, Cornell University"
   website: https://smithamilli.com/
   about: "Smitha is currently a PhD candidate in EECS at UC Berkeley, advised by Anca Dragan and Moritz Hardt. Their research focuses on learning value-aligned objectives for machine learning systems, especially in the recommender system setting. Their work is supported by the NSF GRFP and Open Philanthropy AI fellowship."
+
+- name: Emanuel Moss
+  photo: mannymoss.jpg
+  title: "Postdoctoral Fellow"
+  info: "Cornell Tech and the Data & Society Research Institute"
+  website: https://mossmoss24.github.io/
+  about: "Emanuel Moss is a joint postdoctoral fellow at Cornell Tech and the Data & Society Research Institute. His research examines the production of knowledge in machine learning, policy and organizational approaches to algorithmic accountability, and the ethics discourse in computer science. He holds a PhD in cultural anthropology from the CUNY Graduate Center."
+  
 # BEGIN: Grad students
 
 - name: Katy Blumer
