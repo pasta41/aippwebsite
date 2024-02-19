@@ -66,13 +66,6 @@
   website: http://koenecke.infosci.cornell.edu/
   about: "Allison Koenecke is an assistant professor of information science at Cornell University.  Her research interests lie broadly at the intersection of economics and computer science, and her projects focus on fairness in algorithmic systems and causal inference in public health.  She is regularly quoted as an expert on racial disparities in automated speech-to-text systems.  Koenecke holds a PhD in Computational & Mathematical Engineering from Stanford University."
 
-- name: Ian Lundberg
-  photo: ianlundberg.jpg
-  title: "Assistant Professor"
-  info: "Department of Information Science, Cornell University"
-  website: ianlundberg.org
-  about: "Ian Lundberg is an assistant professor in the Department of Information Science at Cornell. His research develops statistical and machine learning methods to answer questions about inequality in America. Substantively, his interests focus on inequality, poverty, and economic mobility. Methodologically, Ian's work answers these questions by developing tools at the intersection of computational social science and causal inference. Ian received a PhD in sociology and social policy from Princeton University." 
-
 - name: Emma Pierson
   photo: emmapierson.jpeg
   title: "Assistant Professor"
@@ -141,26 +134,6 @@
   website: https://jerry-chee.github.io
   about: "Jerry is a Ph.D. student in Computer Science at Cornell University. He is interested in making machine learning work for practitioners, especially in the areas of recommendation safety and deep learning compression. His work is guided by collaborations with industry and scientific partners."
 
-- name: Madiha Zahrah Choksi
-  photo: madihachoksi.jpg
-  title: "PhD Student"
-  info: "Department of Information Science, Cornell Tech"
-  website: https://www.madihaz.com
-  about: "Madiha's research focuses on the intersection of technology, law, and privacy. More specifically, the sociological implications of mass-surveillance on user privacy, trust, and agency, and the interconnected relationship between privacy and human rights. Madiha completed a Master of Information from the University of Toronto and a Master of Arts from Columbia University."
-
-- name: A.Feder Cooper
-  photo: afcooper.png
-  title: "PhD Student"
-  info: "Department of Computer Science, Cornell University"
-  website: https://afedercooper.info
-  about: "A. Feder Cooper is a Ph.D. student in Computer Science and an Affiliate at the Berkman Klein Center for Internet & Society at Harvard University. Cooper researches how to make more reliable conclusions when using machine learning methods in practice, focusing on problems in uncertainty estimation, model selection, deep learning, and generative AI, and associated tech policy research."
-
-- name: Fernando Delgado
-  photo: fernandodelgado.jpg
-  title: "PhD Student"
-  info: "Department of Information Science, Cornell University"
-  about: "Fernando A. Delgado is a Ph.D. student in the College of Computing and Information Science at Cornell University. Prior to commencing his doctoral studies, Fernando worked at H5, a pioneering firm in the field of legal technology, designing and deploying algorithmic systems for content classification and evidentiary fact-finding in civil litigation and investigations. His current academic research focuses on the design, evaluation, and governance of AI systems in the law. His doctoral research is supported by the McNair Scholars Program, the MacArthur Foundation program on Technology in the Public Interest, and the Russell Sage Foundation initiative on Computational Social Science."
-
 - name: Kate Donahue
   photo: katedonahue.jpg
   title: "PhD Student"
@@ -174,7 +147,6 @@
   info: "Department of Information Science, Cornell Tech"
   website: https://margothanley.info/
   about: "Margot Hanley is a Ph.D. student in Information Science at Cornell Tech, as well as a Doctoral Fellow at the Digital Life Initiative and she is advised by Helen Nissenbaum. Her research is motivated by normative questions surrounding the design, development, and use of computational systems, especially those which use machine learning and other data-driven techniques, and how they may threaten or limit human autonomy, agency, and expression.  Margot holds a B.A. from Oberlin College in Economics and an M.A from Columbia University in Sociology."
-
 
 - name: Wanheng Hu
   photo: wanhenghu.jpg
@@ -233,13 +205,6 @@
   info: "Department of Computer Science, Cornell University"
   website: https://www.cs.cornell.edu/~kvank/
   about: "Katherine is a fourth year PhD candidate in computer science at Cornell University where she works with Jon Kleinberg and Austin Benson. Her interests span across the spectrum of graph and network science from theoretical to applied with particular interest around random graphs and online communities. She graduated from the University of Washington with bachelor degrees in Computer Science and Statistics in 2018."
-
-- name: Briana Vecchione
-  photo: brianavecchione.jpg
-  title: "PhD Student"
-  info: "Department of Information Science, Cornell University"
-  website: https://brianavecchione.org/
-  about: "Briana is a fifth-year Ph.D. Candidate in Information Science at Cornell University, advised by Karen Levy and Solon Barocas. Her research addresses issues of auditing and accountability in algorithmic systems, their social justice and participatory roots, and their policy implications—specifically, by identifying what audits can and cannot demonstrate, the difficulties of applying methods to unique use cases, and the tools and resources that can help support auditors in conducting thorough and consequential evaluations. Briana's work is supported by a Facebook Fellowship, MacArthur Foundation grant, Mozilla Foundation grant, Notre Dame-IBM Tech Ethics Lab grant, and a Google Women Techmakers scholarship."
 
 - name: Ruqing Xu
   photo: ruqingxu.jpg
