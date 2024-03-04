@@ -7,7 +7,6 @@
   website: http://solon.barocas.org/
   about: "Solon Barocas is a Principal Researcher in the New York City lab of Microsoft Research and an Adjunct Assistant Professor in the Department of Information Science at Cornell University. He is also a Faculty Associate at the Berkman Klein Center for Internet & Society at Harvard University."
 
-
 - name: Jon Kleinberg
   photo: jonkleinberg.jpg
   title: "Professor; AIPP Project PI"
@@ -80,6 +79,14 @@
   website: http://www.cs.cornell.edu/~manish/
   about: "Manish is a recent Cornell PhD graduate studying the societal implications of algorithmic decision-making. His research draws upon connections to economics, law, and policy to better understand the impacts that computation has on society."
 
+- name: Daniel Susser
+  photo: dsusser.png
+  title: "Associate Professor"
+  info: "Department of Information Science, Cornell Unviversity"
+  website: www.danielsusser.info
+  about: "Daniel Susser is an associate professor of information science at Cornell. His research brings philosophical tools to bear on problems in technology governance, exploring normative issues raised by new and emerging data-driven technologies, and clarifying conceptual issues that stand in the way of addressing them through law and politics. He has broad interests in technology ethics and policy, philosophy of technology, and science and technology studies, especially critical questions about data, privacy, and the ethics of automation."
+
+
 - name: Gili Vidan
   photo: gilividan.png
   title: "Assistant Professor"
@@ -104,10 +111,10 @@
 
 - name: Lydia Liu
   photo: lydialiu.jpg
-  title: "Postdoctoral Associate"
-  info: "Department of Computer Science, Cornell University"
+  title: "Assistant Professor"
+  info: "Department of Computer Science, Princeton University"
   website: https://www.lydiatliu.com
-  about: "Lydia’s research examines the theoretical foundations of machine learning and algorithmic decision-making, with a focus on societal impact and human welfare. Her current work also approaches questions of algorithmic impact from an interdisciplinary perspective. She received her PhD in Electrical Engineering and Computer Sciences from UC Berkeley, and is the recipient of a Best Paper Award at the International Conference on Machine Learning, a Microsoft Ada Lovelace Fellowship, and an Open Philanthropy AI Fellowship."
+  about: "Lydia’s research examines the theoretical foundations of machine learning and algorithmic decision-making, with a focus on societal impact and human welfare. Her work  approaches questions of algorithmic impact from an multidisciplinary perspective, drawing upon statistics, political philosophy, economics and education research. The recipient of a Best Paper Award at the International Conference on Machine Learning, a Microsoft Ada Lovelace Fellowship, and an Open Philanthropy AI Fellowship, she obtained her Ph.D. in Electrical Engineering and Computer Sciences from the University of California, Berkeley. Before joining Princeton as an assistant professor of computer science, she was a postdoctoral researcher in AIPP at Cornell."
 
 # BEGIN: Post-docs / visiting scientists
 
@@ -120,6 +127,14 @@
  
 # BEGIN: Grad students
 
+- name: Dan Bateyko
+  photo: dbateyko.jpg
+  title: "PhD Student"
+  info: "Department of Information Science, Cornell University"
+  website: https://www.dbateyko.info/
+  about: "Dan Bateyko is a PhD student in the Department of Information Science at Cornell University, advised by Karen Levy. Dan studies artificial intelligence and legal actors. His work has been recognized by an Institute for Law and AI Fellowship, a Google Public Policy Fellowship, an Internet Law & Policy Foundry Fellowship, and a Thomas J. Watson Fellowship. He received his M.L.T. from Georgetown University Law Center and his B.A. from Middlebury College."
+
+
 - name: Katy Blumer
   photo: katyblumer.jpg
   title: "PhD Student"
@@ -127,6 +142,13 @@
   website: https://www.linkedin.com/in/katyblumer/
   about: "Katy Blumer is a PhD student in the Department of Computer Science at Cornell University, advised by Jon Kleinberg. She is interested generally in machine learning understanding. Before Cornell, Katy worked on machine learning for retinal imaging at Google. She has a bachelor's degree in physics from NYU Abu Dhabi."
 
+- name: Erica Chiang
+  photo: echiang.png
+  title: "PhD Student"
+  info: "Department of Computer Science, Cornell University"
+  website: https://erica-chiang.github.io/
+  about: "Erica is a PhD student in Computer Science at Cornell University. She is interested in developing algorithms and machine learning methods to understand and address societal issues such as systemic inequities, market inefficiencies, and group dynamics. She graduated from Carnegie Mellon with a bachelor's degree in Computer Science and concentration in Human-Computer Interaction in 2023."
+ 
 - name: Jerry Chee
   photo: jerrychee.jpg
   title: "PhD Student"
@@ -140,13 +162,27 @@
   info: "Department of Computer Science, Cornell University"
   website: https://www.katedonahue.me
   about: "Kate is a 5th year CS PhD candidate at Cornell, advised by Jon Kleinberg. She works on algorithmic problems relating to the societal impact of AI such as fairness, human/AI collaboration and game-theoretic models of distributed learning."
-  
+
+- name: Sophie Greenwood
+  photo: sgreenwood.jpg
+  title: "PhD Student"
+  info: "Department of Computer Science, Cornell University"
+  website: https://sophiejg.github.io/
+  about: "Sophie Greenwood is a first-year PhD student at Cornell, where she works with Nikhil Garg and Jon Kleinberg. Her research studies the use and design of algorithmic systems; she is particularly interested in social and societal factors such as interpretability, fairness, and human behavior. She graduated from the University of British Columbia with a bachelor's degree in mathematics and computer science in 2023."
+ 
 - name: Margot Hanley
   photo: margothanley.jpg
   title: "PhD Student"
   info: "Department of Information Science, Cornell Tech"
   website: https://margothanley.info/
   about: "Margot Hanley is a Ph.D. student in Information Science at Cornell Tech, as well as a Doctoral Fellow at the Digital Life Initiative and she is advised by Helen Nissenbaum. Her research is motivated by normative questions surrounding the design, development, and use of computational systems, especially those which use machine learning and other data-driven techniques, and how they may threaten or limit human autonomy, agency, and expression.  Margot holds a B.A. from Oberlin College in Economics and an M.A from Columbia University in Sociology."
+
+- name: Emma Harvey
+  photo: eharvey.jpg
+  title: "PhD Student"
+  info: "Department of Information Science, Cornell University"
+  website: https://emmaharv.github.io/
+  about: " Emma is a PhD student in the Department of Information Science at Cornell University, where she is advised by Allison Koenecke and Rene Kizilcec. She is interested in practical and interdisciplinary approaches for assessing and improving the fairness of sociotechnical systems, particularly through the lens of algorithm auditing. She holds a BA in Computer Science and Philosophy, Politics, & Economics from the University of Pennsylvania."
 
 - name: Wanheng Hu
   photo: wanhenghu.jpg
@@ -186,6 +222,13 @@
   website: https://rajmovva.com/about/
   about: "Raj is a PhD student in Computer Science at Cornell Tech. He's interested in the social implications of machine learning systems, especially algorithms involving health and/or language data. As an undergrad, he studied Computer Science at MIT, with minors in Women's and Gender Studies and Biology."
 
+- name: Marios Papachristou
+  photo: marios.jpg
+  title: "PhD Candidate"
+  info: "Department of Computer Science, Cornell University"
+  website: https://papachristoumarios.github.io
+  about: "Kenny Peng is a PhD student in Computer Science at Cornell University, where he studies the interface between algorithmic decision-making and societal challenges. He received his undergraduate degree in mathematics from Princeton University."
+
 - name: Kenny Peng
   photo: kennypeng.png
   title: "PhD Student"
@@ -195,9 +238,9 @@
 
 - name: Aspen K.B. Omapang
   photo: aspen.jpg
-  title: "PhD Student"
+  title: "PhD Candidate"
   info: "Department of Information Science, Cornell University"
-  about: "Aspen K.B. Omapang is an Information Science PhD student at Cornell University in the Social Media Lab (SML). She studies toxicity on social media, online community culture, platform governance, and sociotechnical systems. She accomplishes this through computational social science, ethnography, and mixed-methods approaches. Aspen is a Data Science Fellow for the Cornell Center for Social Sciences (CCSS), and facilitates workshops on social science research design using Big Data. Most recently she was a sociotechnical systems intern for Intel Labs. Aspen's research is supported by the National Science Foundation's Graduate Research Fellowship and Sloan Foundation Fellowship."
+  about: "Aspen K.B. Omapang is a PhD candidate in the Information Science department at Cornell University. Broadly, she studies the socio-technical facets of Native Peoples legibility to the U.S. government, traditional and place-based ecological practices, and resiliency to climate events. Aspen seeks to center Kānaka Maoli (Native Hawaiian) relationality as part of her responsibility to mālama the ‘āina (care for the land). Aspen serves on the ADVANCE Resource Coordination (ARC) Network External Advisory Committee and most recently was a sociotechnical systems intern for Intel Labs. Aspen's research is supported by the National Science Foundation's Graduate Research Fellowship and Sloan Foundation Fellowship."
 
 - name: Katherine Van Koevering
   photo: kvk.jpg
