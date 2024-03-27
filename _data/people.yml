@@ -163,6 +163,13 @@
   website: https://www.katedonahue.me
   about: "Kate is a 5th year CS PhD candidate at Cornell, advised by Jon Kleinberg. She works on algorithmic problems relating to the societal impact of AI such as fairness, human/AI collaboration and game-theoretic models of distributed learning."
 
+- name: Evan Dong
+  photo: edong.jpg
+  title: "PhD Student"
+  info: "Department of Computer Science, Cornell University"
+  website: https://evan-dong.github.io
+  about: "Evan is a PhD student in the Department of Computer Science at Cornell University, supported by an NSF GRFP award. They study the technical representation and quantification of complex social processes and concepts, such as race and gender identity, in data and algorithmic systems. Prior to their graduate studies, Evan worked on electoral campaign data science and infrastructure for the labor movement at the AFL-CIO, and graduated from Brown University."
+
 - name: Sophie Greenwood
   photo: sgreenwood.jpg
   title: "PhD Student"
