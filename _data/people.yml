@@ -193,9 +193,10 @@
 
 - name: Wanheng Hu
   photo: wanhenghu.jpg
-  title: "PhD Student"
-  info: "Department of Science and Technology Studies"
-  about: "Wanheng Hu is a PhD candidate in Science and Technology Studies at Cornell University. His doctoral research is broadly situated at the intersection of the sociology of expertise, medical sociology, critical data/algorithm studies, and development studies. His dissertation project ethnographically examines the cultivation of credible machine learning (ML) systems in expert fields, with an empirical focus on ML products for image-based diagnostics in the Chinese medical AI industry. The project is supported by the National Science Foundation and China Times Cultural Foundation, among others."
+  title: "Embedded Ethics Fellow"
+  info: "Center for Ethics in Society & Institute for Human-Centered AI, Stanford University"
+  website: https://profiles.stanford.edu/wanhenghu
+  about: "Wanheng Hu is a scholar of Science and Technology Studies (STS) working on the epistemic, ethical, and regulatory dimensions of AI. His current book project, Reassembling Expertise, is an ethnographic study of China's medical AI industry. It examines how, and in what sense, human medical expertise is translated into AI systems and how their credibility is negotiated across industry, clinical, and regulatory settings. His broader research spans STS, critical data studies, sociology of expertise, science and public, and media studies. Wanheng is a postdoctoral Embedded Ethics Fellow at Stanford's Center for Ethics in Society and Institute for Human-Centered AI. He holds a Ph.D. in STS from Cornell and is an affiliate of the Data & Society Research Institute."
 
 - name: Kowe Kadoma
   photo: kowekadoma.jpg
