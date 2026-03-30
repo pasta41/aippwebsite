@@ -191,6 +191,12 @@
   website: https://emmaharv.github.io/
   about: " Emma is a PhD student in the Department of Information Science at Cornell University, where she is advised by Allison Koenecke and Rene Kizilcec. She is interested in practical and interdisciplinary approaches for assessing and improving the fairness of sociotechnical systems, particularly through the lens of algorithm auditing. She holds a BA in Computer Science and Philosophy, Politics, & Economics from the University of Pennsylvania."
 
+- name: Jae June Lee
+  photo: jaejunelee.jpg
+  title: "PhD Student"
+  info: "Department of Information Science, Cornell University"
+  about: "Jae June Lee is a Ph.D. student in Information Science at Cornell University. His research explores the ethical, technical, and policy dimensions of governmental statistical systems, with particular attention to statistical privacy."
+
 - name: Wanheng Hu
   photo: wanhenghu.jpg
   title: "Embedded Ethics Fellow"
