@@ -131,6 +131,13 @@
   info: "Department of Computer Science, Cornell University"
   website: https://sites.google.com/view/galinoti
   about: "Gali Noti is a Postdoctoral Fellow in the Department of Computer Science at Cornell University. She is interested in topics at the intersection of computer science and behavioral economics, and her current projects focus on human-algorithm interaction in decision-making settings."
+
+- name: Divya Shanmugam
+  photo: divyashanmugam.jpg
+  title: "Postdoctoral Associate"
+  info: "Department of Computer Science, Cornell Tech"
+  website: https://dmshanmugam.github.io
+  about: "Divya Shanmugam is a postdoctoral associate based in the Department of Computer Science. Her work reasons about algorithmic decision-making in healthcare, with a focus on how health inequality and financial incentives shape observable data and the machine learning systems that data gives rise to."
  
 # BEGIN: Grad students
 
