@@ -124,6 +124,13 @@
   info: "Department of Computer Science, Cornell University"
   website: https://smithamilli.com/
   about: "Smitha is currently a PhD candidate in EECS at UC Berkeley, advised by Anca Dragan and Moritz Hardt. Their research focuses on learning value-aligned objectives for machine learning systems, especially in the recommender system setting. Their work is supported by the NSF GRFP and Open Philanthropy AI fellowship."
+
+- name: Gali Noti
+  photo: galinoti.jpg
+  title: "Postdoctoral Fellow"
+  info: "Department of Computer Science, Cornell University"
+  website: https://sites.google.com/view/galinoti
+  about: "Gali Noti is a Postdoctoral Fellow in the Department of Computer Science at Cornell University. She is interested in topics at the intersection of computer science and behavioral economics, and her current projects focus on human-algorithm interaction in decision-making settings."
  
 # BEGIN: Grad students
 
