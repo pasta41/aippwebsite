@@ -217,6 +217,13 @@
   info: "Department of Information Science, Cornell University"
   about: "Joshua is a PhD student in Information Science at Cornell University and a Non-Resident Fellow at the University of Pennsylvania Center for Ethics and the Rule of Law. His research focuses on the impacts of emerging technologies on the laws of armed conflict and organizational practices of the United States military. His recent work explores how integrating open-source intelligence and AI/ML systems into the joint targeting cycle presents novel challenges to civilian harm mitigation efforts, international legal compliance, and public accountability. He holds an MA in International Relations and Contemporary War from King's College London, and a BA in Philosophy from the University of Michigan. Prior to starting his studies at Cornell, he served as a an active-duty Armor officer with the 4th Infantry Division in the United States Army."
 
+- name: Isabel Silva Corpus
+  photo: isabelsilvacorpus.png
+  title: "PhD Student"
+  info: "Department of Information Science, Cornell University"
+  website: https://isabelsilvacorpus.github.io/
+  about: "Isabel works in the fields of computational social science and algorithmic fairness; she is interested in understanding forms of harm and inequity that are propagated by large algorithmic systems. Prior to joining Cornell, she studied statistics and data science at Yale and worked as a data scientist at Spotify."
+
 - name: Wanheng Hu
   photo: wanhenghu.jpg
   title: "Embedded Ethics Fellow"
